@@ -1,0 +1,15 @@
+C:\Users\msi\source\repos\Deptor\bin\Debug\net6.0\Debtor.exe
+C:\Users\msi\source\repos\Deptor\bin\Debug\net6.0\Debtor.deps.json
+C:\Users\msi\source\repos\Deptor\bin\Debug\net6.0\Debtor.runtimeconfig.json
+C:\Users\msi\source\repos\Deptor\bin\Debug\net6.0\Debtor.dll
+C:\Users\msi\source\repos\Deptor\bin\Debug\net6.0\ref\Debtor.dll
+C:\Users\msi\source\repos\Deptor\bin\Debug\net6.0\Debtor.pdb
+C:\Users\msi\source\repos\Deptor\obj\Debug\net6.0\Debtor.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\Deptor\obj\Debug\net6.0\Debtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\source\repos\Deptor\obj\Debug\net6.0\Debtor.AssemblyInfoInputs.cache
+C:\Users\msi\source\repos\Deptor\obj\Debug\net6.0\Debtor.AssemblyInfo.cs
+C:\Users\msi\source\repos\Deptor\obj\Debug\net6.0\Debtor.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\Deptor\obj\Debug\net6.0\Debtor.dll
+C:\Users\msi\source\repos\Deptor\obj\Debug\net6.0\ref\Debtor.dll
+C:\Users\msi\source\repos\Deptor\obj\Debug\net6.0\Debtor.pdb
+C:\Users\msi\source\repos\Deptor\obj\Debug\net6.0\Debtor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e162ff84-e83f-4548-ae2d-700312907d57": {
+      "ProjectGuid": "e162ff84-e83f-4548-ae2d-700312907d57",
+      "DisplayName": "Debtor",
+      "ColorIndex": 0
+    },
+    "f77e87fa-d8f7-4ee7-88c5-9ffcb158b668": {
+      "ProjectGuid": "f77e87fa-d8f7-4ee7-88c5-9ffcb158b668",
+      "DisplayName": "Debtor.Core",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
