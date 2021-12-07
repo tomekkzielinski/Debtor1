@@ -1,4 +1,6 @@
-﻿namespace Debtor
+﻿using Debtor.Core;
+
+namespace Debtor
 {
     public class DebtorApp
     {
@@ -51,7 +53,7 @@
             Console.WriteLine("Oto lista Twoich dłużników:");
 
 
-            foreach (var borrower in BorrowerManager.ListBorrowers())
+            foreach (var borrower in Manager.ListBorrowers())
             {
                
                 Console.WriteLine(borrower); 

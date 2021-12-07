@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Debtor.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Debtor.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Debtor.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Debtor.Core/1.0.0": {
+      "type": "project",
+      "path": "../Debtor.Core/Debtor.Core.csproj",
+      "msbuildProject": "../Debtor.Core/Debtor.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Debtor.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\msi\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\msi\\source\\repos\\Debtor.Core\\Debtor.Core.csproj": {
+              "projectPath": "C:\\Users\\msi\\source\\repos\\Debtor.Core\\Debtor.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
