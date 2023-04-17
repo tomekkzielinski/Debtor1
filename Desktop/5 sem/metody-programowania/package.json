@@ -1,0 +1,42 @@
+{
+  "name": "metody-programowania",
+  "version": "1.0.0",
+  "description": "Course for creating apps in Node.js and React.js",
+  "main": "index.js",
+  "repository": "https://github.com/tomekkzielinski/metody-prog.git",
+  "author": "Tomek",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "be-dev": "npx nodemon metody-prog/src/backend/index.ts",
+    "be-start": "node metody-prog/dist/backend/index.js",
+    "be-build": "tsc -p metody-prog/tsconfig.json"
+  },
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.2",
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.15.11",
+    "@types/uuid": "^9.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.59.0",
+    "@typescript-eslint/parser": "^5.59.0",
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.12.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "helmet": "^6.1.5",
+    "http-status-codes": "^2.2.0",
+    "prisma": "^4.12.0",
+    "uuid": "^9.0.0"
+  }
+}
